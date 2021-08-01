@@ -15,6 +15,4 @@
   <img align="center" alt="Marcus-Powershell" height="30" width="40" <img src="https://img.icons8.com/color/48/000000/powershell.png"/>
   <img align="center" alt="Marcus-Linux" height="30" width="40" <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
   <img align="center" alt="Marcus-Ansible" height="30" width="40" <img src="https://img.icons8.com/color/48/000000/ansible.png"/>
-  
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
   </div>
